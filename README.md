@@ -10,4 +10,4 @@ It contains index.js entry files and validations folder defines the schema or st
 controller folder perform the crud operations like read,delete,update and create the data in routes folder.
 
 ### Dependencies
-There are used many dependencies used like axios,express,cors,material ui, mongoose and dotenv, body-parser etc.material ui used for designing part.
+There are used many dependencies like axios,express,cors,material ui, mongoose and dotenv, body-parser etc.material ui used for designing part.
